@@ -1,0 +1,62 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<!-- #BeginEditable "doctitle" -->
+<title>New Page 2</title>
+<!-- #EndEditable -->
+<script language="JavaScript">
+<!--
+function FP_playSound(path) {//v1.0
+ var b,d=document,e,es,i,se="<EMBED SRC='"+path+"' HIDDEN=TRUE LOOP=FALSE AUTOSTART=TRUE>";			
+ if(d.body)b=d.body;	if(d.getElementsByTagName) { es=d.getElementsByTagName('embed')		
+ for(i=0;i<es.length;i++) { e=es(i); if( e.src==path ) { if(e.removeNode) e.removeNode();
+ break; } } if(b&&b.insertAdjacentHTML) b.insertAdjacentHTML("beforeend",se); }
+}
+// -->
+</script>
+</head>
+
+<body vlink="#FF00FF" background="images/twinklespace.gif">
+
+<table cellpadding="0" cellspacing="0" width="1877" height="73">
+	<!-- MSTableType="layout" --><tr>
+		<td valign="top" width="514">
+		<img border="0" src="images/22.gif" width="102" height="59" align="center" hspace="10" vspace="10"></td>
+		<td valign="top" width="877">&nbsp;
+		<img border="0" src="images/CONSTRUCTION_ANIMEE.gif" width="76" height="76" hspace="10"><img border="0" src="images/barraconstruction.gif" width="574" height="51" hspace="50"><img border="0" src="images/CONSTRUCTION_ANIMEE.gif" width="76" height="76" align="baseline" hspace="10" onmouseover="FP_playSound(/*url*/'sounds/laser_x.wav')" onclick="FP_playSound(/*url*/'j0214098.wav')"></td>
+		<td valign="top" height="73" width="486">
+		<img border="0" src="images/22.gif" width="102" height="59" align="right" hspace="10" vspace="10"></td>
+	</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="1877" height="232">
+	<!-- MSCellFormattingTableID="1" -->
+	<tr>
+		<td height="232" width="1877">
+		<!-- MSCellFormattingType="content" -->
+		<p align=center>
+		<font size="7" color="#CCCC00">
+		<marquee behavior="slide" bgcolor="#FF00FF" scrolldelay="40" width="50%" vspace="10" onclick="FP_playSound(/*url*/'sounds/ufo_x.wav')">Welcome to my recreation of a 90s website, enjoy</marquee></font></p></td>
+	</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="1875" height="477">
+	<!-- MSCellFormattingTableID="2" -->
+	<tr>
+		<td height="477" width="1875">
+		<!-- MSCellFormattingType="content" -->
+		&nbsp;</td>
+	</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="1876" height="81">
+	<!-- MSCellFormattingTableID="4" -->
+	<tr>
+		<td height="81" width="1876">
+		<!-- MSCellFormattingType="content" -->
+		&nbsp;</td>
+	</tr>
+</table>
+
+</body>
+
+</html>
